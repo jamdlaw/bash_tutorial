@@ -1,0 +1,7 @@
+ls = list of files
+
+ls -l = list of files with deatails such as user permissions 
+
+cp = copies files
+
+ 
